@@ -1,0 +1,14 @@
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\bin\Debug\netstandard2.0\Ex01_DailyShow.deps.json
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\bin\Debug\netstandard2.0\Ex01_DailyShow.dll
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\bin\Debug\netstandard2.0\ref\Ex01_DailyShow.dll
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\bin\Debug\netstandard2.0\Ex01_DailyShow.pdb
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Ex01_DailyShow.csprojAssemblyReference.cache
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Ex01_DailyShow.AssemblyInfoInputs.cache
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Ex01_DailyShow.AssemblyInfo.cs
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Ex01_DailyShow.dll
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\ref\Ex01_DailyShow.dll
+D:\DP2H\L3\Ex01_DailyShow\Ex01_DailyShow\obj\Debug\netstandard2.0\Ex01_DailyShow.pdb
